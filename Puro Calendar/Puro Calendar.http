@@ -1,0 +1,6 @@
+@Puro_Calendar_HostAddress = http://localhost:5210
+
+GET {{Puro_Calendar_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
